@@ -1,0 +1,11 @@
+# Site settings
+title: Workplace Chaplaincy Foundation
+email: steve@capchaps.org
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://workplace.chaplaincy.foundation" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
