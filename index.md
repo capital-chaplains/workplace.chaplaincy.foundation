@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![Workplace Chaplaincy Foundation](./img/logo.jpg)
+<div id="logo">![Workplace Chaplaincy Foundation](./img/logo.jpg)</div>
 
 Purpose - This corporation is formed exclusively for charitable and educational purposes as articulated in section 501(c)(3) of the Internal Revenue Code of 1986. The specific purpose of this corporation is to:
 
