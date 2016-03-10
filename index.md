@@ -16,6 +16,8 @@ Workplace Chaplaincy Foundation, Inc.
 7228 Elmwood Ave.  
 Middleton, WI 53562  
 
+<a target="_blank" href="https://mygiving.secure.force.com/GXDonateNow?id=a0Ui000000RzJP9EAN"><img src="https://mygiving.secure.force.com/resource/GXStyles/Donate-Button-Blue.png"/></a>
+
 **Contact:**  
 Steve Cook, President  
 608-217-7261  
